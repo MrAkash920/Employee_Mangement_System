@@ -5,6 +5,8 @@
 ## Description
 This Employee Management System is a simple Python application built with Streamlit, designed for the purpose of performing CRUD (Create, Read, Update, Delete) operations on employee information. It allows users to manage employee data, including their name, email, department, salary, and date of joining.
 
+![Demo Link] (https://employeems.streamlit.app/)
+
 ## Features
 - Create, Read, Update, and Delete employee records.
 - View detailed employee information.
