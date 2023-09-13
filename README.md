@@ -2,10 +2,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MrAkash920/Employee_Mangement_System)
 ![GitHub issues](https://img.shields.io/github/issues/MrAkash920/Employee_Mangement_System)
 ![GitHub stars](https://img.shields.io/github/stars/MrAkash920/Employee_Mangement_System?style=social)
+
 ## Description
 This Employee Management System is a simple Python application built with Streamlit, designed for the purpose of performing CRUD (Create, Read, Update, Delete) operations on employee information. It allows users to manage employee data, including their name, email, department, salary, and date of joining.
 
-![Demo Link] (https://employeems.streamlit.app/)
+[Demo Link](https://employeems.streamlit.app/)
 
 ## Features
 - Create, Read, Update, and Delete employee records.
